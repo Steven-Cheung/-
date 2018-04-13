@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view>
+  <label>Hello World</label>
+</view>

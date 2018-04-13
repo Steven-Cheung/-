@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view>
+  <button>我的世界</button>
+</view>
